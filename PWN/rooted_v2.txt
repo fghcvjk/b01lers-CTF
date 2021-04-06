@@ -1,0 +1,15 @@
+Dang you solved my easy challenge, but can you break out again??
+
+Check the hints for rooted_v1 ;)
+
+chal.b01lers.com 7002
+
+Difficulty: Easy
+
+by mastermjr
+
+root@ubuntu:~# nc chal.b01lers.com 7002
+tsh> ls
+ls: Command not found
+tsh> cat flag
+cat: flag: No such file or directory

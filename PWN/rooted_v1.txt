@@ -1,0 +1,18 @@
+
+HA now you really can't move! I rooted you! Only the admin can escape!
+
+chal.b01lers.com 2007
+
+Difficulty: Easy
+
+by mastermjr
+Hint! You have /bin/cat.
+Hint! There's a file in bin called .admin_check
+
+root@ubuntu:~# nc chal.b01lers.com 2007
+tsh> .admin_check
+Gimme Your Admin Commands:
+ls
+ls
+Tnx Admin!
+Job [1] (32666) terminated by signal 11
